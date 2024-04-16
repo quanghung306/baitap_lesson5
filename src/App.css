@@ -38,5 +38,20 @@
 }
 .custom-hello-word{
   font-size: 20px;
-  color: red;
+}
+.custom-hello-word-brown{
+  border: 5px solid brown;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.custom-hello-word-blue{
+  border: 5px solid blue;
+  text-align: left;
+  
+}
+.custom-hello-word-purple{
+  border: 5px solid purple;
+  text-align: left;
+  margin-top: 10px;
+  
 }
